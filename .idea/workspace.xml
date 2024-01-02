@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cf48906-e9cb-4ed8-8223-95150c99ac92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZkZq7I3U4MtpSxCK4OByXzQzXO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.JavaScriptExecutor_Popup.timeAlert_Popup">
+    <configuration name="FileUpload_Popup.exeFileUpload_Method" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.FileUpload_Popup" />
+      <option name="METHOD_NAME" value="exeFileUpload_Method" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUpload_Popup.file_Upload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.FileUpload_Popup" />
+      <option name="METHOD_NAME" value="file_Upload" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUpload_Popup.pop_Up" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.FileUpload_Popup" />
+      <option name="METHOD_NAME" value="pop_Up" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaScriptExecutor_Popup.alert_Box" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.JavaScriptExecutor_Popup" />
+      <option name="METHOD_NAME" value="alert_Box" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaScriptExecutor_Popup.timeAlert_Popup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.JavaScriptExecutor_Popup" />
+      <option name="METHOD_NAME" value="timeAlert_Popup" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JavaScriptExecutor_Popup.timeAlert_Popup" />
+        <item itemvalue="TestNG.JavaScriptExecutor_Popup.alert_Box" />
+        <item itemvalue="TestNG.FileUpload_Popup.pop_Up" />
+        <item itemvalue="TestNG.FileUpload_Popup.exeFileUpload_Method" />
+        <item itemvalue="TestNG.FileUpload_Popup.file_Upload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf48906-e9cb-4ed8-8223-95150c99ac92" name="Default Changelist" comment="" />
+      <created>1702968226724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702968226724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1704176356874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1704176356874" />
+    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1704176356873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1704176356873" />
+    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1704176356873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1704176356873" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1704176356874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1704176356874" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1704056908042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1704056908042" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1704056908042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1704056908042" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1704056908042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1704056908042" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1704056908042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1704056908042" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1703920951705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1703920951705" />
+    <state x="646" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1704205021712">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="646" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1704205021712" />
+  </component>
+</project>
