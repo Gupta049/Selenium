@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2ZkZq7I3U4MtpSxCK4OByXzQzXO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +34,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.JavaScriptExecutor_Popup.timeAlert_Popup">
-    <configuration name="FileUpload_Popup.exeFileUpload_Method" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.LocatorsExample.login_Page_UsingLocator">
+    <configuration name="ActionClass.using_DoubleClick_Method" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredAPI" />
       <extension name="coverage">
         <pattern>
@@ -40,26 +44,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.FileUpload_Popup" />
-      <option name="METHOD_NAME" value="exeFileUpload_Method" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileUpload_Popup.file_Upload" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.FileUpload_Popup" />
-      <option name="METHOD_NAME" value="file_Upload" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.ActionClass" />
+      <option name="METHOD_NAME" value="using_DoubleClick_Method" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -121,13 +107,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LocatorsExample.login_Page_UsingLocator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.LocatorsExample" />
+      <option name="METHOD_NAME" value="login_Page_UsingLocator" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LocatorsExample.login_Page_UsingLocator" />
+        <item itemvalue="TestNG.ActionClass.using_DoubleClick_Method" />
         <item itemvalue="TestNG.JavaScriptExecutor_Popup.timeAlert_Popup" />
         <item itemvalue="TestNG.JavaScriptExecutor_Popup.alert_Box" />
         <item itemvalue="TestNG.FileUpload_Popup.pop_Up" />
-        <item itemvalue="TestNG.FileUpload_Popup.exeFileUpload_Method" />
-        <item itemvalue="TestNG.FileUpload_Popup.file_Upload" />
       </list>
     </recent_temporary>
   </component>
@@ -145,22 +149,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1704176356874">
+    <state width="1237" height="91" key="GridCell.Tab.0.bottom" timestamp="1704208803979">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1704176356874" />
-    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1704176356873">
+    <state width="1237" height="91" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1704208803979" />
+    <state width="1237" height="91" key="GridCell.Tab.0.center" timestamp="1704208803978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1704176356873" />
-    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1704176356873">
+    <state width="1237" height="91" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1704208803978" />
+    <state width="1237" height="91" key="GridCell.Tab.0.left" timestamp="1704208803978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1704176356873" />
-    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1704176356874">
+    <state width="1237" height="91" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1704208803978" />
+    <state width="1237" height="91" key="GridCell.Tab.0.right" timestamp="1704208803979">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1704176356874" />
+    <state width="1237" height="91" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1704208803979" />
     <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1704056908042">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

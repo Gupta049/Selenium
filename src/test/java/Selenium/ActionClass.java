@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
-//import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
@@ -14,25 +14,24 @@ import java.util.List;
 
 public class ActionClass {
     public WebDriver driver;
-//    @BeforeMethod
-//    public void Driver(){
-//        driver = new ChromeDriver();
-//    }
+    @BeforeMethod
+    public void Driver(){
+        driver = new ChromeDriver();
+    }
 
     @Test
     public void using_ContextClick_Method() throws InterruptedException {
-        driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");
         driver.manage().window().maximize();
         Thread.sleep(3000);
-//        WebElement pass = driver.findElement(By.xpath("//input[@id='pass']"));
+       //WebElement pass = driver.findElement(By.xpath("//input[@id='pass']"));
         WebElement pass = driver.findElement(By.partialLinkText("Forgotten")); // By.xpath("//a[contains(text(),\"Forgotten account?\")]") using xpath
 
         Actions actions = new Actions(driver);
-//        actions.moveToElement(pass).perform(); //moveToElement() method used to mouse hover on any element on the web page
-//        Thread.sleep(3000);
-//        actions.contextClick(pass).perform(); // contextClick() method used to right click on any element on the web page
-//        Thread.sleep(3000);
+     /*   actions.moveToElement(pass).perform(); //moveToElement() method used to mouse hover on any element on the web page
+        Thread.sleep(3000);
+        actions.contextClick(pass).perform(); // contextClick() method used to right click on any element on the web page
+        Thread.sleep(3000);*/
         actions.moveToElement(pass).contextClick().build().perform();
         Thread.sleep(3000);
         actions.keyDown(Keys.LEFT_CONTROL)
@@ -48,7 +47,6 @@ public class ActionClass {
     }
     @Test
     public void using_DragAndDrop_Method() throws InterruptedException {
-        driver = new ChromeDriver();
         driver.get("https://jqueryui.com/droppable");
         driver.manage().window().maximize();
         Thread.sleep(3000);
@@ -65,7 +63,6 @@ public class ActionClass {
 
     @Test
     public void using_DoubleClick_Method() throws InterruptedException {
-        driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");
         driver.manage().window().maximize();
         Thread.sleep(3000);
